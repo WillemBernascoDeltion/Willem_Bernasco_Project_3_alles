@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 9bfe7d7dc90512b43803751b0f98516a
+timeCreated: 1491313414
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder199
+    100002: Cylinder200
+    100004: Cylinder201
+    100006: Cylinder202
+    100008: GeoSphere022
+    100010: GeoSphere023
+    100012: GeoSphere024
+    100014: //RootNode
+    100016: p003
+    100018: TAK ECHT KLEIN003
+    100020: TAK ECHTTAK ECHT003
+    100022: 'TAK KLEIN #006'
+    400000: Cylinder199
+    400002: Cylinder200
+    400004: Cylinder201
+    400006: Cylinder202
+    400008: GeoSphere022
+    400010: GeoSphere023
+    400012: GeoSphere024
+    400014: //RootNode
+    400016: p003
+    400018: TAK ECHT KLEIN003
+    400020: TAK ECHTTAK ECHT003
+    400022: 'TAK KLEIN #006'
+    2300000: Cylinder199
+    2300002: Cylinder200
+    2300004: Cylinder201
+    2300006: Cylinder202
+    2300008: GeoSphere022
+    2300010: GeoSphere023
+    2300012: GeoSphere024
+    2300014: //RootNode
+    2300016: p003
+    2300018: TAK ECHT KLEIN003
+    2300020: TAK ECHTTAK ECHT003
+    2300022: 'TAK KLEIN #006'
+    3300000: Cylinder199
+    3300002: Cylinder200
+    3300004: Cylinder201
+    3300006: Cylinder202
+    3300008: GeoSphere022
+    3300010: GeoSphere023
+    3300012: GeoSphere024
+    3300014: //RootNode
+    3300016: p003
+    3300018: TAK ECHT KLEIN003
+    3300020: TAK ECHTTAK ECHT003
+    3300022: 'TAK KLEIN #006'
+    4300000: Grote boom001
+    4300002: Cylinder199
+    4300004: Cylinder200
+    4300006: Cylinder201
+    4300008: Cylinder202
+    4300010: GeoSphere022
+    4300012: GeoSphere023
+    4300014: GeoSphere024
+    4300016: TAK ECHT KLEIN003
+    4300018: TAK ECHTTAK ECHT003
+    4300020: 'TAK KLEIN #006'
+    4300022: p003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
